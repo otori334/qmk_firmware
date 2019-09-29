@@ -157,3 +157,9 @@ void matrix_scan_user(void) {
 
 void led_set_user(uint8_t usb_led) {
 }
+
+
+// Tapdance definitions.
+qk_tap_dance_action_t tap_dance_actions[] = {
+  
+};
